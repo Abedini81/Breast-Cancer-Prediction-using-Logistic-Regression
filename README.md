@@ -1,12 +1,12 @@
 # 🧠 Breast Cancer Prediction using Logistic Regression
 
-This project builds a machine learning model using logistic regression to predict whether a tumor is benign or malignant based on features from the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) available on Kaggle.
+This project builds a machine learning model using logistic regression to predict whether a tumor is benign or malignant based on features from the [Predicting Breast Cancer - Logistic Regression) Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression) available on Kaggle.
 
 ---
 
 ## 📁 Dataset
 
-- Source: [Kaggle - Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- Source: [Kaggle - Predicting Breast Cancer - Logistic Regression Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression)
 - Features: 30 numeric features computed from digitized images of fine needle aspirate (FNA) of breast mass.
 - Target: `diagnosis` — Malignant (`M`) or Benign (`B`)
 
