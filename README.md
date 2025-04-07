@@ -1,6 +1,6 @@
 # 🧠 Breast Cancer Prediction using Logistic Regression
 
-This project builds a machine learning model using logistic regression to predict whether a tumor is benign or malignant based on features from the [Predicting Breast Cancer - Logistic Regression) Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression) available on Kaggle.
+This project builds a machine learning model using logistic regression to predict whether a tumor is benign or malignant based on features from the [Predicting Breast Cancer - Logistic Regression Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression) available on Kaggle.
 
 ---
 
