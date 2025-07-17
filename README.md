@@ -1,10 +1,10 @@
-# 🧠 Breast Cancer Prediction using Logistic Regression
+# Breast Cancer Prediction using Logistic Regression
 
 This project builds a machine learning model using logistic regression to predict whether a tumor is benign or malignant based on features from the [Predicting Breast Cancer - Logistic Regression Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression) available on Kaggle.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Source: [Kaggle - Predicting Breast Cancer - Logistic Regression Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression)
 - Features: 30 numeric features computed from digitized images of fine needle aspirate (FNA) of breast mass.
@@ -12,7 +12,7 @@ This project builds a machine learning model using logistic regression to predic
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ### 1. Exploratory Data Analysis (EDA)
 - Checked for null values and column types.
@@ -38,7 +38,7 @@ This project builds a machine learning model using logistic regression to predic
 
 ---
 
-## 📌 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -48,13 +48,13 @@ This project builds a machine learning model using logistic regression to predic
 
 ---
 
-## 📁 File Structure
+## File Structure
 
-📦 BreastCancerPrediction/ ┣ 📄 BreastCancerPrediction.ipynb ← Main notebook ┣ 📄 README.md ← This file
+BreastCancerPrediction/ ┣ BreastCancerPrediction.ipynb ← Main notebook ┣ README.md ← This file
 
 ---
 
-## ✅ Results
+## Results
 
 - Logistic Regression achieved **97.37% accuracy** on the test data.
 - Very low number of false positives and false negatives.
@@ -62,6 +62,6 @@ This project builds a machine learning model using logistic regression to predic
 
 ---
 
-## 📌 License
+## License
 
 This project is for educational purposes only.
