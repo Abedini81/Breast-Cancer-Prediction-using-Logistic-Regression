@@ -17,10 +17,17 @@ This project builds a machine learning model using logistic regression to predic
 
 ### 1. Exploratory Data Analysis (EDA)
 - Checked for null values and column types.
-- Visualized class distribution.
-- Encoded the target variable: `M` → `1`, `B` → `0`.
-- Correlation analysis to identify top predictive features.
-- Visualized top 10 features using a heatmap.
+- Visualized class distribution:
+
+  ![Diagnosis Distribution](images/diagnosis_distribution.png)
+
+- Visualized mean radius by diagnosis:
+
+  ![Radius Mean by Diagnosis](images/radius_mean_by_diagnosis.png)
+
+- Correlation analysis to identify top predictive features:
+
+  ![Top 10 Correlated Features Heatmap](images/heatmap_top10_features.png)
 
 ### 2. Data Preprocessing
 - Dropped the `id` column.
@@ -36,7 +43,9 @@ This project builds a machine learning model using logistic regression to predic
 - **Accuracy:** 97.37%
 - Precision, Recall, F1-score reported using `classification_report`.
 - Confusion matrix plotted to analyze performance.
+- ROC Curve with AUC score:
 
+  ![ROC Curve](images/roc_curve.png)
 ---
 
 ## Technologies Used
