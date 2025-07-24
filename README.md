@@ -7,7 +7,8 @@ This project builds a machine learning model using logistic regression to predic
 ## Dataset
 
 - Source: [Kaggle - Predicting Breast Cancer - Logistic Regression Data Set](https://www.kaggle.com/code/jagannathrk/predicting-breast-cancer-logistic-regression)
-- Features: 30 numeric features computed from digitized images of fine needle aspirate (FNA) of breast mass.
+- Samples: 569
+- Features: 30 numeric features describing cell nuclei characteristics
 - Target: `diagnosis` — Malignant (`M`) or Benign (`B`)
 
 ---
@@ -45,12 +46,6 @@ This project builds a machine learning model using logistic regression to predic
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
-
----
-
-## File Structure
-
-BreastCancerPrediction/ ┣ BreastCancerPrediction.ipynb ← Main notebook ┣ README.md ← This file
 
 ---
 
