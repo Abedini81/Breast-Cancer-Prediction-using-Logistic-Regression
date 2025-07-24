@@ -19,15 +19,15 @@ This project builds a machine learning model using logistic regression to predic
 - Checked for null values and column types.
 - Visualized class distribution:
 
-  ![Diagnosis Distribution](images/diagnosis_distribution.png)
+  ![Diagnosis Distribution](Plots/diagnosisDistribution.png)
 
 - Visualized mean radius by diagnosis:
 
-  ![Radius Mean by Diagnosis](images/radius_mean_by_diagnosis.png)
+  ![Radius Mean by Diagnosis](Plots/radiusByDiagnosis.png)
 
 - Correlation analysis to identify top predictive features:
 
-  ![Top 10 Correlated Features Heatmap](images/heatmap_top10_features.png)
+  ![Top 10 Correlated Features Heatmap](Plots/heatmap.png)
 
 ### 2. Data Preprocessing
 - Dropped the `id` column.
@@ -45,7 +45,7 @@ This project builds a machine learning model using logistic regression to predic
 - Confusion matrix plotted to analyze performance.
 - ROC Curve with AUC score:
 
-  ![ROC Curve](images/roc_curve.png)
+  ![ROC Curve](Plots/roc.png)
 ---
 
 ## Technologies Used
